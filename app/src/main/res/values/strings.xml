@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SilentGuard</string>
+    <string name="accessibility_service_description">Enables hardware volume button sequence detection (double or triple press) to discreetly trigger emergency audio recording without turning on the screen.</string>
+    <string name="notification_channel_recorder">Emergency Recording</string>
+    <string name="notification_channel_guard">Guard Sensor Monitor</string>
+    <string name="notification_stealth_battery_title">Android Battery Manager</string>
+    <string name="notification_stealth_battery_text">Optimizing background power efficiency</string>
+    <string name="notification_stealth_guard_title">Device Protection Active</string>
+    <string name="notification_stealth_guard_text">SilentGuard background safety monitor active</string>
+    <string name="notification_recording_title">Security Service</string>
+    <string name="notification_recording_text">Background recording in progress…</string>
+</resources>

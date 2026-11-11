@@ -1,0 +1,6 @@
+{
+  "name": "SilentGuard",
+  "description": "Discreet emergency audio recorder triggered by phone flip, shake, or volume button sequences without opening the screen.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
